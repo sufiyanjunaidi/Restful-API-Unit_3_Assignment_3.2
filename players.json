@@ -1,0 +1,151 @@
+[{
+    "name": "K. Benzema",
+    "position": "Forward",
+    "goals": 18,
+    "chances created": 39,
+    "interceptions": 6,
+    "assists": 9,
+    "minutes played": 2532,
+    "id": 9
+  },
+  {
+    "name": "V. Junior",
+    "position": "Forward",
+    "goals": 10,
+    "chances created": 57,
+    "interceptions": 7,
+    "assists": 9,
+    "minutes played": 2637,
+    "id": 21
+  },
+  {
+    "name": "Rodrygo",
+    "position": "Forward",
+    "goals": 9,
+    "chances created": 37,
+    "interceptions": 9,
+    "assists": 12,
+    "minutes played": 2400,
+    "id": 22
+  },
+  {
+    "name": "M. Asensio",
+    "position": "Forward",
+    "goals": 9,
+    "chances created": 30,
+    "interceptions": 1,
+    "assists": 5,
+    "minutes played": 1567,
+    "id": 11
+  },
+  {
+    "name": "L. Vazquez",
+    "position": "Forward",
+    "goals": 7,
+    "chances created": 21,
+    "interceptions": 4,
+    "assists": 6,
+    "minutes played": 1200,
+    "id": 17
+  },
+  {
+    "name": "L. Modric",
+    "position": "Midfielder",
+    "goals": 8,
+    "chances created": 43,
+    "interceptions": 5,
+    "assists": 6,
+    "minutes played": 2700,
+    "id": 10
+  },
+  {
+    "name": "T. Kroos",
+    "position": "Midfielder",
+    "goals": 9,
+    "chances created": 45,
+    "interceptions": 6,
+    "assists": 6,
+    "minutes played": 2600,
+    "id": 8
+  },
+  {
+    "name": "F. Valverde",
+    "position": "Midfielder",
+    "goals": 7,
+    "chances created": 37,
+    "interceptions": 14,
+    "assists": 8,
+    "minutes played": 2000,
+    "id": 16
+  },
+  {
+    "name": "E. Camavinga",
+    "position": "Midfielder",
+    "goals": 5,
+    "chances created": 25,
+    "interceptions": 18,
+    "assists": 5,
+    "minutes played": 1700,
+    "id": 23
+  },
+  {
+    "name": "A. Tchouameni",
+    "position": "Midfielder",
+    "goals": 4,
+    "chances created": 27,
+    "interceptions": 32,
+    "assists": 5,
+    "minutes played": 1200,
+    "id": 24
+  },
+  {
+  
+    "name": "E. Militao",
+    "position": "Defender",
+    "goals": 8,
+    "chances created": 20,
+    "interceptions": 22,
+    "assists": 0,
+    "minutes played": 2400,
+    "id": 3
+  },
+  {
+    "name": "Nacho",
+    "position": "Defender",
+    "goals": 5,
+    "chances created": 21,
+    "interceptions": 13,
+    "assists": 2,
+    "minutes played": 1400,
+    "id": 6
+  },
+  {
+    "name": "A. Rudiger",
+    "position": "Defender",
+    "goals": 4,
+    "chances created": 16,
+    "interceptions": 11,
+    "assists": 1,
+    "minutes played": 1700,
+    "id": 25
+  },
+  {
+    "name": "D. Alaba",
+    "position": "Defender",
+    "goals": 2,
+    "chances created": 25,
+    "interceptions": 8,
+    "assists": 5,
+    "minutes played": 1589,
+    "id": 4
+  },
+  {
+    "name": "T. Courtois",
+    "position": "Goalkeeper",
+    "goals": 0,
+    "chances created": 11,
+    "interceptions": 0,
+    "assists": 1,
+    "minutes played": 2700,
+    "id": 1
+  }]
